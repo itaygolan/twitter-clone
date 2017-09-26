@@ -1,2 +1,2 @@
 # twitter-clone
-A clone of twitter made to practice app development with React Native
+A clone of twitter made to practice app development with React Native, GraphQL, MongoDB, and Node.
